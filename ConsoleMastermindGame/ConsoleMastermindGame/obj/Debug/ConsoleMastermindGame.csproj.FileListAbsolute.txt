@@ -1,0 +1,6 @@
+C:\Users\Tyler\Dropbox\Other\Personal Projects\Learning Game Boards\Mastermind\ConsoleMastermindGame\ConsoleMastermindGame\bin\Debug\ConsoleMastermindGame.exe.config
+C:\Users\Tyler\Dropbox\Other\Personal Projects\Learning Game Boards\Mastermind\ConsoleMastermindGame\ConsoleMastermindGame\bin\Debug\ConsoleMastermindGame.exe
+C:\Users\Tyler\Dropbox\Other\Personal Projects\Learning Game Boards\Mastermind\ConsoleMastermindGame\ConsoleMastermindGame\bin\Debug\ConsoleMastermindGame.pdb
+C:\Users\Tyler\Dropbox\Other\Personal Projects\Learning Game Boards\Mastermind\ConsoleMastermindGame\ConsoleMastermindGame\obj\Debug\ConsoleMastermindGame.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Dropbox\Other\Personal Projects\Learning Game Boards\Mastermind\ConsoleMastermindGame\ConsoleMastermindGame\obj\Debug\ConsoleMastermindGame.exe
+C:\Users\Tyler\Dropbox\Other\Personal Projects\Learning Game Boards\Mastermind\ConsoleMastermindGame\ConsoleMastermindGame\obj\Debug\ConsoleMastermindGame.pdb
